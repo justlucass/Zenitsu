@@ -1,1 +1,1 @@
-worker: node nadekobot.js
+worker: node bot.js
